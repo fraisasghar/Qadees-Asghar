@@ -101,48 +101,41 @@ Passionate about building intelligent systems and scalable software solutions.
 <p align="center">
 Built for software engineering, ML research, and future opportunities
 </p>
-<!-- Repo Code Line Stats -->
 
-## 📈 Repository Code Analytics
+## 📈 Repository Code Lines
 
 <div align="center">
-
-<!-- Total Lines -->
-<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/SERVIGO?style=for-the-badge&color=00BFFF" />
-
-<br/><br/>
 
 <table align="center">
 <tr>
 <th>Repository</th>
-<th>Code Size</th>
+<th>Lines of Code</th>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Qadees-Asghar/SERVIGO">SERVIGO</a></td>
 <td>
-<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/SERVIGO?style=flat-square&color=0099ff" />
+<a href="https://github.com/Qadees-Asghar/SERVIGO">SERVIGO</a>
+</td>
+<td>
+<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/SERVIGO" />
 </td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Qadees-Asghar/Linquora2.0">Linquora2.0</a></td>
 <td>
-<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/Linquora2.0?style=flat-square&color=0099ff" />
+<a href="https://github.com/Qadees-Asghar/Linquora">Linquora</a>
+</td>
+<td>
+<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/Linquora" />
 </td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Qadees-Asghar/DLD-Projects">Linquora</a></td>
 <td>
-<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/Linquora?style=flat-square&color=0099ff" />
+<a href="https://github.com/Qadees-Asghar/Linquora2.0">Linquora2.0</a>
 </td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/Qadees-Asghar/ML-Projects">ML-Projects</a></td>
 <td>
-<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/ML-Projects?style=flat-square&color=0099ff" />
+<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/Linquora2.0" />
 </td>
 </tr>
 
