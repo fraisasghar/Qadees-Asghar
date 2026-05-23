@@ -101,3 +101,42 @@ Passionate about building intelligent systems and scalable software solutions.
 <p align="center">
 Built for software engineering, ML research, and future opportunities
 </p>
+<br/>
+
+## 📈 Code Line Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Lines%20of%20Code-50K%2B-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<table>
+<tr>
+<th>Repository</th>
+<th>Lines of Code</th>
+</tr>
+
+<tr>
+<td>SERVIGO</td>
+<td>12,000+</td>
+</tr>
+
+<tr>
+<td>Traffic Signal Controller</td>
+<td>3,500+</td>
+</tr>
+
+<tr>
+<td>ML Projects</td>
+<td>8,000+</td>
+</tr>
+
+<tr>
+<td>DLD Projects</td>
+<td>2,000+</td>
+</tr>
+
+</table>
+
+</div>
