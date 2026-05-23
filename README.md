@@ -102,6 +102,7 @@ Passionate about building intelligent systems and scalable software solutions.
 Built for software engineering, ML research, and future opportunities
 </p>
 
+
 ## 📈 Repository Code Lines
 
 <div align="center">
@@ -113,29 +114,29 @@ Built for software engineering, ML research, and future opportunities
 </tr>
 
 <tr>
+<td><a href="https://github.com/Qadees-Asghar/SERVIGO">SERVIGO</a></td>
 <td>
-<a href="https://github.com/Qadees-Asghar/SERVIGO">SERVIGO</a>
-</td>
-<td>
-<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/SERVIGO" />
+
+<img src="https://img.shields.io/github/languages/count/Qadees-Asghar/SERVIGO?style=for-the-badge&color=00BFFF" />
+
 </td>
 </tr>
 
 <tr>
+<td><a href="https://github.com/Qadees-Asghar/Linquora">Linquora</a></td>
 <td>
-<a href="https://github.com/Qadees-Asghar/Linquora">Linquora</a>
-</td>
-<td>
-<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/Linquora" />
+
+<img src="https://img.shields.io/github/languages/count/Qadees-Asghar/Linquora?style=for-the-badge&color=00BFFF" />
+
 </td>
 </tr>
 
 <tr>
+<td><a href="https://github.com/Qadees-Asghar/Linquora2.0">Linquora2.0</a></td>
 <td>
-<a href="https://github.com/Qadees-Asghar/Linquora2.0">Linquora2.0</a>
-</td>
-<td>
-<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Lines&query=lines&url=https://api.codetabs.com/v1/loc?github=Qadees-Asghar/Linquora2.0" />
+
+<img src="https://img.shields.io/github/languages/count/Qadees-Asghar/Linquora2.0?style=for-the-badge&color=00BFFF" />
+
 </td>
 </tr>
 
