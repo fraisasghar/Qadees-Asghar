@@ -101,40 +101,49 @@ Passionate about building intelligent systems and scalable software solutions.
 <p align="center">
 Built for software engineering, ML research, and future opportunities
 </p>
-<br/>
+<!-- Repo Code Line Stats -->
 
-## 📈 Code Line Analytics
+## 📈 Repository Code Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Lines%20of%20Code-50K%2B-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Total Lines -->
+<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/SERVIGO?style=for-the-badge&color=00BFFF" />
 
 <br/><br/>
 
-<table>
+<table align="center">
 <tr>
 <th>Repository</th>
-<th>Lines of Code</th>
+<th>Code Size</th>
 </tr>
 
 <tr>
-<td>SERVIGO</td>
-<td>12,000+</td>
+<td><a href="https://github.com/Qadees-Asghar/SERVIGO">SERVIGO</a></td>
+<td>
+<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/SERVIGO?style=flat-square&color=0099ff" />
+</td>
 </tr>
 
 <tr>
-<td>Traffic Signal Controller</td>
-<td>3,500+</td>
+<td><a href="https://github.com/Qadees-Asghar/Linquora2.0">Linquora2.0</a></td>
+<td>
+<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/Linquora2.0?style=flat-square&color=0099ff" />
+</td>
 </tr>
 
 <tr>
-<td>ML Projects</td>
-<td>8,000+</td>
+<td><a href="https://github.com/Qadees-Asghar/DLD-Projects">Linquora</a></td>
+<td>
+<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/Linquora?style=flat-square&color=0099ff" />
+</td>
 </tr>
 
 <tr>
-<td>DLD Projects</td>
-<td>2,000+</td>
+<td><a href="https://github.com/Qadees-Asghar/ML-Projects">ML-Projects</a></td>
+<td>
+<img src="https://img.shields.io/github/languages/code-size/Qadees-Asghar/ML-Projects?style=flat-square&color=0099ff" />
+</td>
 </tr>
 
 </table>
