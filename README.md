@@ -1,3 +1,6 @@
+
+
+
 <!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -140,21 +143,10 @@ backed by a strong foundation in software design principles, data structures, an
 
 ## Research Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Design%20&%20Architecture-1B1B3A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-33235C?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-4C2C79?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-6A3093?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big%20Data%20&%20Analytics-4A5FA0?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1B7FA8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20&%20Distributed%20Systems-00A6C6?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+<img width="1032" alt="image" src="https://github.com/user-attachments/assets/9682d7fd-c876-4054-9e82-e6477f5d292b" />
+
 
 ---
-
-
-
-
 
 
 ## Contact
