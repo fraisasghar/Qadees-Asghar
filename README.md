@@ -1,6 +1,5 @@
 
 
-
 <!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -57,14 +56,6 @@
 
 <!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
-
-
-
-
-
-
-
-
 
 
 
@@ -139,6 +130,9 @@ backed by a strong foundation in software design principles, data structures, an
 </div>
 
 ---
+
+<!------------------------------------------------------------------------Research Interests ------------------------------------------------------------------------>
+
 <div align="center">
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/2ca12970-5732-4eef-bcfa-91d7ac427fef" />
 </div>
@@ -149,16 +143,130 @@ backed by a strong foundation in software design principles, data structures, an
 
 ---
 
+<!------------------------------------------------------------------------Github Activity ------------------------------------------------------------------------>
+
+<div align="center">
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/9081e5b1-af22-4fcb-8bc2-c2459f8ec644" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qadees-Asghar&theme=radical" width="100%" style="display: block;" />
+</div>
+
+<!--Table -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
+  <tr>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qadees-Asghar&theme=radical" style="width: 100%; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qadees-Asghar&cache_seconds=7200&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=AE81FF&icon_color=AE81FF&ring_color=AE81FF" alt="Qadees-Asghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qadees-Asghar&theme=dark&hide_border=true&background=0D1117&ring=AE81FF&fire=AE81FF&currStreakLabel=AE81FF&sideLabels=FFFFFF&sideNums=AE81FF&dates=FFFFFF" alt="Qadees-Asghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+  </tr>
+</table>
+
+<!------------------------------------------------------------------------ Bigger Graph ------------------------------------------------------------------------>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qadees-Asghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=AE81FF&line=9B6BFF&point=C9A8FF&area_color=2A1A4A" width="100%" style="display: block; margin: 0; padding: 0;" />
+    </td>
+  </tr>
+</table>
+
+
+<!-- Enhanced Trophies Section with Animation -->
+<p align="center">
+  <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
+    <img src="https://github-trophies.vercel.app/?username=Qadees-Asghar&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
+         style="width: 1000px; margin-left: 0; transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.02)'"
+         onmouseout="this.style.transform='scale(1)'"
+         alt="Trophies" />
+  </div>
+</p>
+
+
+
+---
+
+<!------------------------------------------------------------------------Connect with me ------------------------------------------------------------------------>
 
 <div align="center">
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
 </div>
-
-<div align="center">
-<img width="1022" alt="image" src="https://github.com/user-attachments/assets/1ada8ca1-13d5-4248-a635-26ceeb380906" />
-</div>
+</br>
 
 
 <p align="center">
-Built for software engineering, ML research, and future opportunities
+  <a href="mailto:theqadees@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Primary Email.png" alt="Primary Email" width="22%">
+  </a>
+  <a href="mailto:qadeesasghar404@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Secondary Email.png" alt="Secondary Email" width="22%">
+  </a>
+  <a href="https://www.linkedin.com/in/qadees-asghar-734307316" target="_blank">
+    <img src="Connect with me Cards/LinkedIn.png" alt="LinkedIn" width="22%">
+  </a>
+  <a href="https://github.com/Qadees-Asghar" target="_blank">
+    <img src="Connect with me Cards/GitHub.png" alt="GitHub" width="22%">
+  </a>
 </p>
+
+</br>
+
+
+
+
+
+
+<!------------------------------------------------------------------------ Social Icons ------------------------------------------------------------------------>
+<div align="center">
+  <a href="mailto:theqadees@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="55" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:qadeesasghar404@gmail.com">
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="55" alt="Outlook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/qadees-asghar-734307316">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="55" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Qadees-Asghar">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="55" alt="GitHub"/>
+  </a>
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
+</div>
+
+<!------------------------------------------------------------------------ Final Call to Action – Killer Button ------------------------------------------------------------------------>
+<div align="center">
+  <a href="mailto:theqadees@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-2A1A4A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2A1A4A&color=003344" height="60"/>
+  </a>
+</div>
+<!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
+<div align="center">
+  <p style="font-size:24px; color:#AE81FF;">
+    <strong>Research • Technical Roles •  • AI/ML • Full-Stack Developer</strong>
+  </p>
+
+  <p style="color:#FFFFFF; font-size:15px;">
+    <em>Last Updated: July 2026 • Built with precision for engineering excellence</em>
+  </p>
+</div>
+
+<!-- Gradient Divider -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:AE81FF,50:9B6BFF,100:006064&height=2">
+</div>
