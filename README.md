@@ -76,7 +76,7 @@ backed by a strong foundation in software design principles, data structures, an
   <table>
     <tr>
       <td width="130" align="center">
-        <img src="Tool & Languages Icons/UET logo.png" width="130" alt="UET"/>
+        <img src="Education Logo/UET Lahore.png" width="130" alt="UET"/>
       </td>
       <td align="center">
         <h2>Bachelor of Science in Software Engineering</h2>
@@ -84,7 +84,7 @@ backed by a strong foundation in software design principles, data structures, an
         <h5>2025 – 2029 | Department of Computer Science | Batch 2025</h5>
       </td>
       <td width="130" align="center">
-        <img src="Tool & Languages Icons/UET CS Logo.png" width="130" alt="UET CS"/>
+        <img src="Education Logo/UET CS department.png" width="130" alt="UET CS"/>
       </td>
     </tr>
   </table>
@@ -92,31 +92,69 @@ backed by a strong foundation in software design principles, data structures, an
 
 ---
 
+<!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
+# Technical Stack:
 
+### Programming Languages:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="60" height="60" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><b>Python</b></td>
+      <td align="center"><img width="60" height="60" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><br><b>C++</b></td>
+      <td align="center"><img width="60" height="60" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><br><b>C#</b></td>
+      <td align="center"><img width="60" height="60" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br><b>JavaScript</b></td>
+      <td align="center"><img width="60" height="60" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br><b>SQL</b></td>
+      <td align="center"><img width="60" height="60" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><br><b>HTML</b></td>
+      <td align="center"><img width="60" height="60" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br><b>CSS</b></td>
+    </tr>
+  </table>
+</div>
+
+### Machine Learning & Data Science:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="60" height="60" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /><br><b>PyTorch</b></td>
+      <td align="center"><img width="60" height="60" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /><br><b>TensorFlow</b></td>
+      <td align="center"><img width="60" height="60" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><br><b>NumPy</b></td>
+      <td align="center"><img width="60" height="60" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><br><b>Pandas</b></td>
+      <td align="center"><img width="60" height="60" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><br><b>Jupyter</b></td>
+    </tr>
+  </table>
+</div>
+
+### Development Tools:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="60" height="60" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br><b>Git</b></td>
+      <td align="center"><img width="60" height="60" alt="GitHub" src="https://cdn.simpleicons.org/github/ffffff" /><br><b>GitHub</b></td>
+      <td align="center"><img width="60" height="60" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br><b>VS Code</b></td>
+      <td align="center"><img width="60" height="60" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br><b>Linux</b></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 
 ## Research Interests
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Software%20Design-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data-E67E22?style=for-the-badge" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Design%20&%20Architecture-1B1B3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-33235C?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4C2C79?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-6A3093?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20&%20Analytics-4A5FA0?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1B7FA8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20&%20Distributed%20Systems-00A6C6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
 
 
-## Technical Stack
 
-### Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
-</div>
+
 
 
 ## Contact
