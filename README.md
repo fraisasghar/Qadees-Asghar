@@ -1,14 +1,68 @@
-<h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
+<!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
+<div align="center">
+  <h2 style="margin-top:-10px; font-weight:600;">
+    Hi there, Welcome to my GitHub Profile!
+  </h2>
+</div>
 
-<div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=100&lines=Qadees+Asghar" alt="Qadees Asghar" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer+%7C+ML+%26+LLM" alt="Subtitle" />
+<!-- Theme: Midnight Indigo to Electric Cyan -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a3093,100:00c6ff&height=220&section=header&text=I'm%20Qadees%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20|%20Machine%20Learning%20|%20Deep%20Learning%20|%20LLMs&descAlign=50&descAlignY=88&descSize=24&descColor=b8f2ff&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qadees-Asghar&theme=github_dark" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&height=55&lines=Building+Intelligent+Systems;Exploring+Deep+Learning+Architectures;Training+and+Fine-Tuning+LLMs;Turning+Data+into+Decisions" alt="Typing SVG" />
 </div>
+
+<!------------------------------------------------------------------------ Tech Stack ------------------------------------------------------------------------>
+### **My Tools & Languages:**
+<div align="center">
+  <img width="40" height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" height="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="40" height="40" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="40" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40" height="40" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img width="40" height="40" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img width="40" height="40" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img width="40" height="40" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img width="40" height="40" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img width="40" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="40" height="40" alt="GitHub" src="https://cdn.simpleicons.org/github/ffffff" />
+  <img width="40" height="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="40" height="40" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+<br>
+
+<!------------------------------------------------------------------------ Profile Summary(views, followers) ------------------------------------------------------------------------>
+
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/Qadees-Asghar">
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-1B1B3A?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=Qadees-Asghar&label=Profile%20Views&color=4B2172&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/Qadees-Asghar?label=Followers&color=0E5C8A&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/Qadees-Asghar?label=Total%20Stars&color=0E7490&style=for-the-badge&logo=star&logoColor=00E5FF" height="50"/>
+  </a>
+</p>
+
+
+<!------------------------------------------------------------------------ Divider ------------------------------------------------------------------------>
+
+</div>
+
+<!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
+
+
+
+
+
+
+
+
+
 
 
 ## Profile Summary
