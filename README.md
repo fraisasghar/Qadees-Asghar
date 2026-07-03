@@ -65,46 +65,34 @@
 
 
 
-## Profile Summary
+## Professional Summary:
+Software Engineering student at **UET Lahore**, specializing in **machine learning**, **deep learning**, and **large language models**, with growing experience across **big data** workflows and scalable software design.
+Experienced in building and training models end-to-end, from data preprocessing to deployment, with hands-on exposure to **neural network architectures** and **model fine-tuning**.
+Proficient across **programming languages** (Python · C++ · C# · JavaScript · SQL), **web fundamentals** (HTML · CSS), **ML/DL frameworks** (PyTorch · TensorFlow · NumPy · Pandas), and **development tools** (Git · GitHub · VS Code · Jupyter · Linux · Hugging Face),
+backed by a strong foundation in software design principles, data structures, and a growing interest in building intelligent, real-world AI systems.
 
-<p align="center">
-Software Engineer at UET Lahore focused on software design, machine learning, deep learning, large language models, and big data.  
-Passionate about building intelligent systems and scalable software solutions.
-</p>
-
+## Education:
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qadees-Asghar&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qadees-Asghar&theme=github_dark" width="45%" />
+  <table>
+    <tr>
+      <td width="130" align="center">
+        <img src="Tool & Languages Icons/UET logo.png" width="130" alt="UET"/>
+      </td>
+      <td align="center">
+        <h2>Bachelor of Science in Software Engineering</h2>
+        <h4><a href="https://uet.edu.pk">University of Engineering & Technology (UET)</a> • Lahore, Pakistan</h4>
+        <h5>2025 – 2029 | Department of Computer Science | Batch 2025</h5>
+      </td>
+      <td width="130" align="center">
+        <img src="Tool & Languages Icons/UET CS Logo.png" width="130" alt="UET CS"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Qadees-Asghar&theme=github-dark"
-    width="760"
-  />
-</p>
+---
 
 
-## Education
-
-<div align="center" style="max-width:900px; margin:auto;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F4D,100:0099CC&text=Bachelor%20of%20Engineering%20in%20Software%20Engineering&fontSize=28&fontColor=ffffff&desc=UET%20Lahore&descSize=20&descAlignY=72"
-    width="100%"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Year-1st%20Year-0099CC?style=for-the-badge" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img width="500" height="167" alt="UET Logo" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
-</div>
 
 
 ## Research Interests
