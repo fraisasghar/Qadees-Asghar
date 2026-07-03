@@ -87,7 +87,10 @@ backed by a strong foundation in software design principles, data structures, an
 ---
 
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
-# Technical Stack:
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/18afbfb7-ee38-46aa-8c3c-2af6119a9484" />
+</div>
+
 
 ### Programming Languages:
 <div align="center">
