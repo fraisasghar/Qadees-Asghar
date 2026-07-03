@@ -139,9 +139,10 @@ backed by a strong foundation in software design principles, data structures, an
 </div>
 
 ---
-
-
-## Research Interests
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/2ca12970-5732-4eef-bcfa-91d7ac427fef" />
+</div>
+</br>
 
 <img width="1032" alt="image" src="https://github.com/user-attachments/assets/9682d7fd-c876-4054-9e82-e6477f5d292b" />
 
@@ -149,24 +150,12 @@ backed by a strong foundation in software design principles, data structures, an
 ---
 
 
-## Contact
+<div align="center">
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
+</div>
 
 <div align="center">
-  <a href="mailto:theqadees@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-theqadees@gmail.com-0099CC?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="mailto:qadeesasghar404@gmail.com">
-    <img src="https://img.shields.io/badge/Email%202-qadeesasghar404@gmail.com-0099CC?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/qadees-asghar-734307316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Qadees-Asghar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
-  </a>
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/1ada8ca1-13d5-4248-a635-26ceeb380906" />
 </div>
 
 
